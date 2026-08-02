@@ -145,3 +145,4 @@ The architecture is deliberately modular so new features are additive:
 - **Streamlit row-click selection not working**: row selection requires
   Streamlit ≥ 1.36 (see `requirements.txt`) — upgrade with
   `pip install -U streamlit` if you're on an older version.
+# stock_scanner
