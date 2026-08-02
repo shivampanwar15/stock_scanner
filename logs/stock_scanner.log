@@ -1,0 +1,45 @@
+2026-07-28 16:42:14 | INFO     | data | Loaded 20 stocks from watchlist /Users/shivampanwar/Downloads/stock_scanner/stocks.csv
+2026-07-28 16:42:14 | INFO     | data | Starting download of 20 symbols with 12 workers
+2026-07-28 16:42:19 | INFO     | data | Download complete: 20/20 symbols succeeded in 4.5s
+2026-07-28 16:42:19 | INFO     | scanner | Scan complete: 20 stocks with valid indicators
+2026-07-28 16:50:15 | INFO     | data | Cleared 20 cache files
+2026-07-29 13:45:59 | INFO     | data | Cleared 0 cache files
+2026-07-29 13:58:23 | INFO     | data | Loaded 149 stocks from watchlist uploaded_stocks.csv
+2026-07-29 13:58:23 | INFO     | data | Starting download of 149 symbols with 12 workers
+2026-07-29 13:58:25 | WARNING  | data | Insufficient history for SBIFUNDS.NS (7 rows)
+2026-07-29 13:58:29 | WARNING  | data | No data returned for TATAMOTORS.NS
+2026-07-29 13:58:31 | WARNING  | data | No data returned for MCDOWELL-N.NS
+2026-07-29 13:58:34 | INFO     | data | Download complete: 146/149 symbols succeeded in 10.9s
+2026-07-29 13:58:34 | WARNING  | scanner | Skipping ICICIAMC.NS: EMA200 not available (insufficient history)
+2026-07-29 13:58:34 | WARNING  | scanner | Skipping GROWW.NS: EMA200 not available (insufficient history)
+2026-07-29 13:58:34 | WARNING  | scanner | Skipping LGEINDIA.NS: EMA200 not available (insufficient history)
+2026-07-29 13:58:35 | INFO     | scanner | Scan complete: 143 stocks with valid indicators
+2026-07-30 16:48:56 | INFO     | data | Loaded 149 stocks from watchlist uploaded_stocks.csv
+2026-07-30 16:48:56 | INFO     | data | Starting download of 149 symbols with 12 workers
+2026-07-30 16:48:56 | WARNING  | data | Insufficient history for SBIFUNDS.NS (8 rows)
+2026-07-30 16:48:58 | WARNING  | data | No data returned for TATAMOTORS.NS
+2026-07-30 16:49:00 | WARNING  | data | No data returned for MCDOWELL-N.NS
+2026-07-30 16:49:01 | INFO     | data | Download complete: 146/149 symbols succeeded in 5.8s
+2026-07-30 16:49:01 | WARNING  | scanner | Skipping ICICIAMC.NS: EMA200 not available (insufficient history)
+2026-07-30 16:49:01 | WARNING  | scanner | Skipping GROWW.NS: EMA200 not available (insufficient history)
+2026-07-30 16:49:02 | WARNING  | scanner | Skipping LGEINDIA.NS: EMA200 not available (insufficient history)
+2026-07-30 16:49:02 | INFO     | scanner | Scan complete: 143 stocks with valid indicators
+2026-07-30 16:49:23 | INFO     | data | Loaded 149 stocks from watchlist uploaded_stocks.csv
+2026-07-30 16:49:23 | INFO     | data | Starting download of 149 symbols with 12 workers
+2026-07-30 16:49:24 | WARNING  | data | Insufficient history for SBIFUNDS.NS (8 rows)
+2026-07-30 16:49:27 | WARNING  | data | No data returned for MCDOWELL-N.NS
+2026-07-30 16:49:27 | WARNING  | data | No data returned for TATAMOTORS.NS
+2026-07-30 16:49:27 | INFO     | data | Download complete: 146/149 symbols succeeded in 4.1s
+2026-07-30 16:49:27 | WARNING  | scanner | Skipping LGEINDIA.NS: EMA200 not available (insufficient history)
+2026-07-30 16:49:27 | WARNING  | scanner | Skipping ICICIAMC.NS: EMA200 not available (insufficient history)
+2026-07-30 16:49:27 | WARNING  | scanner | Skipping GROWW.NS: EMA200 not available (insufficient history)
+2026-07-30 16:49:27 | INFO     | scanner | Scan complete: 143 stocks with valid indicators
+2026-08-01 09:30:57 | INFO     | data | Loaded 149 stocks from watchlist uploaded_stocks.csv
+2026-08-01 09:30:57 | INFO     | data | Starting download of 149 symbols with 12 workers
+2026-08-01 09:30:59 | WARNING  | data | Insufficient history for SBIFUNDS.NS (9 rows)
+2026-08-01 09:31:03 | WARNING  | data | No data returned for TATAMOTORS.NS
+2026-08-01 09:31:04 | WARNING  | data | No data returned for MCDOWELL-N.NS
+2026-08-01 09:31:05 | INFO     | data | Download complete: 146/149 symbols succeeded in 7.6s
+2026-08-01 09:31:05 | WARNING  | scanner | Skipping ICICIAMC.NS: EMA200 not available (insufficient history)
+2026-08-01 09:31:05 | WARNING  | scanner | Skipping GROWW.NS: EMA200 not available (insufficient history)
+2026-08-01 09:31:05 | INFO     | scanner | Scan complete: 144 stocks with valid indicators
